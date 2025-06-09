@@ -24,4 +24,6 @@
              // menulis dan memasukkan nilai dari 'baris' ke dalam file 
              Outfile << baris << endl;
     }
-   
+    //selasai dalam menulis sekarang tutup filenya 
+    Outfile.close();
+    
