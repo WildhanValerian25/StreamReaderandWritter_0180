@@ -26,4 +26,6 @@
     }
     //selasai dalam menulis sekarang tutup filenya 
     Outfile.close();
-    
+    // membuat objek input file stream
+    ifstream infile;
+   
