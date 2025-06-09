@@ -1,0 +1,12 @@
+pribadi (emote gagah)
+Wildhan Valerian
+yogyakarta
+vario
+20240140180
+warna hitam
+baju merah 
+celana cream
+suka ungu
+lol
+hahaha
+cd "c:\Users\Victus\Documents\Pertemuan13 Pemdas\" ; if ($?) { g++ ManualExpetion.cpp -o ManualExpetion } ; if ($?) { .\ManualExpetion }
